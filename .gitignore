@@ -1,0 +1,25 @@
+# Virtual environments
+.venv/
+Resume-Checker/.venv/
+env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
