@@ -1,0 +1,8 @@
+regex
+pandas
+scikit-learn
+joblib
+flask
+flask-cors
+pypdf
+python-docx
