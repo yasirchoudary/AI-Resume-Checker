@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Analyzer (Semester Project)
 
 Flask + ML project that predicts resume category and shows an ATS-style report.
@@ -42,3 +43,7 @@ Open: [http://localhost:5000](http://localhost:5000)
 - **ML Prediction**: Logistic Regression model predicts resume category
 - **ATS Score**: Generated score with keyword, format, and readability metrics
 - **Export Report**: Download analysis results as a text file
+=======
+# AI-Resume-Checker
+Python based AI-Resume Checker
+>>>>>>> 3e2cd9386075e643f630a83909664e45e2558eb3
